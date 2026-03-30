@@ -10,9 +10,9 @@ I am an MCA student at Rajagiri College of Social Sciences with a strong interes
 # 📊 GitHub Stats:
 ## 📊 GitHub Stats
 
-![Albert's GitHub stats](https://github-readme-stats.vercel.app/api?username=Albertcs7&show_icons=true&theme=tokyonight)
+<img src="https://github-readme-stats.vercel.app/api?username=Albertcs7&show_icons=true&theme=tokyonight" />
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Albertcs7&layout=compact&theme=tokyonight)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Albertcs7&layout=compact&theme=tokyonight" />
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
