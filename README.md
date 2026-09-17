@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=38BDF8&center=true&vCenter=true&width=500&lines=Hi+there%2C+I'm+Albert+👋;MCA+Scholar+%7C+Full-Stack+Developer;Building+scalable+web+apps+%26+intelligent+systems" alt="Typing SVG" />
+
 
   <p align="center">
     <a href="https://www.linkedin.com/in/albert-cs"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
