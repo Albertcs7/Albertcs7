@@ -1,31 +1,101 @@
-# 💫 About Me:
-I am an MCA student at Rajagiri College of Social Sciences with a strong interest in technology and software development. I am passionate about learning how systems work and building applications that solve real-world problems.<br><br>I have a solid foundation in front-end development using HTML, CSS, and JavaScript, along with programming experience in C, C++, Java, Python, and PHP. I am also comfortable working with databases and have hands-on experience with SQLite, PostgreSQL, and Oracle using SQL.<br><br>In addition, I have developed projects using Django and Flask frameworks, which helped me understand backend development and application design. These experiences have improved my problem-solving skills and practical knowledge.<br><br>I am always eager to learn new technologies, enhance my skills, and work on meaningful projects that contribute to my growth as a developer.
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=38BDF8&center=true&vCenter=true&width=500&lines=Hi+there%2C+I'm+Albert+👋;MCA+Scholar+%7C+Full-Stack+Developer;Building+scalable+web+apps+%26+intelligent+systems" alt="Typing SVG" />
 
+  <p align="center">
+    <a href="https://www.linkedin.com/in/albert-cs"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+    <a href="mailto:albertcs2004@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  </p>
+</div>
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/albert-cs) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:albertcs2004@gmail.com) 
+---
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![Vue.js](https://img.shields.io/badge/vue%203-%234FC08D.svg?style=for-the-badge&logo=vue.js&logoColor=white) ![Node.js](https://img.shields.io/badge/node.js-%23339933.svg?style=for-the-badge&logo=node.js&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300758F.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Oracle Database](https://img.shields.io/badge/oracle%20database-%23F80000.svg?style=for-the-badge&logo=oracle&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)  ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)  ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white)  ![Dribbble](https://img.shields.io/badge/Dribbble-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white) ![Jinja](https://img.shields.io/badge/jinja-white.svg?style=for-the-badge&logo=jinja&logoColor=black) 
-## 📊 GitHub Stats
+### 💫 About Me
 
-<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Albertcs7&show_icons=true&theme=tokyonight" />
+I am an **MCA scholar at Rajagiri College of Social Sciences** focused on full-stack architecture, systems design, and data-driven applications. I bridge clean frontend interfaces with robust backend services and relational databases.
 
-<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Albertcs7&layout=compact&theme=tokyonight" />
+- 🔭 **Focus Areas:** Modern Web Applications, Microservices, and Relational Databases
+- 🛠️ **Current Architecture Stack:** Vue 3 / Node.js / Python / TypeScript
+- 🎯 **Current Objective:** Developing efficient, production-ready software solutions
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+---
 
-<!--
-**Albertcs7/Albertcs7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 💻 Tech Stack
 
-Here are some ideas to get you started:
+<details open>
+<summary><b>Languages & Core</b></summary>
+<br>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Python](https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat-square&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat-square&logo=openjdk&logoColor=white)
+![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=flat-square&logo=go&logoColor=white)
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat-square&logo=c&logoColor=white)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white)
+</details>
+
+<details open>
+<summary><b>Frameworks & Libraries</b></summary>
+<br>
+
+![Vue.js](https://img.shields.io/badge/vue_3-%234FC08D.svg?style=flat-square&logo=vue.js&logoColor=white)
+![Node.js](https://img.shields.io/badge/node.js-%23339933.svg?style=flat-square&logo=node.js&logoColor=white)
+![Django](https://img.shields.io/badge/django-%23092E20.svg?style=flat-square&logo=django&logoColor=white)
+![Flask](https://img.shields.io/badge/flask-%23000.svg?style=flat-square&logo=flask&logoColor=white)
+![Jinja](https://img.shields.io/badge/jinja-white.svg?style=flat-square&logo=jinja&logoColor=black)
+</details>
+
+<details open>
+<summary><b>Data Science & Machine Learning</b></summary>
+<br>
+
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat-square&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat-square&logo=numpy&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat-square&logo=scikit-learn&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/matplotlib-%23ffffff.svg?style=flat-square&logo=Matplotlib&logoColor=black)
+</details>
+
+<details open>
+<summary><b>Databases & Cloud Hosting</b></summary>
+<br>
+
+![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=flat-square&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-%2300758F.svg?style=flat-square&logo=mysql&logoColor=white)
+![Oracle Database](https://img.shields.io/badge/oracle_database-%23F80000.svg?style=flat-square&logo=oracle&logoColor=white)
+![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=flat-square&logo=sqlite&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat-square&logo=docker&logoColor=white)
+![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=flat-square&logo=vercel&logoColor=white)
+![Render](https://img.shields.io/badge/render-%46E3B7.svg?style=flat-square&logo=render&logoColor=white)
+![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=flat-square&logo=netlify&logoColor=00C7B7)
+</details>
+
+<details open>
+<summary><b>Tooling & Design</b></summary>
+<br>
+
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat-square&logo=github&logoColor=white)
+![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=flat-square&logo=jira&logoColor=white)
+![Trello](https://img.shields.io/badge/trello-%23026AA7.svg?style=flat-square&logo=trello&logoColor=white)
+![Canva](https://img.shields.io/badge/canva-%2300C4CC.svg?style=flat-square&logo=canva&logoColor=white)
+![Dribbble](https://img.shields.io/badge/dribbble-EA4C89?style=flat-square&logo=dribbble&logoColor=white)
+</details>
+
+---
+
+### 📊 GitHub Activity & Metrics
+
+<div align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Albertcs7&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub Stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Albertcs7&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+</div>
+
+<div align="center" style="margin-top: 10px;">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Albertcs7&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</div>
+
+---
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=1e222a&height=100&section=footer" width="100%"/>
+</div>
