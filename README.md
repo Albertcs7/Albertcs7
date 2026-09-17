@@ -86,8 +86,13 @@ I am an **MCA scholar at Rajagiri College of Social Sciences** focused on full-s
 ### 📊 GitHub Activity & Metrics
 
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Albertcs7&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub Stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Albertcs7&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  <!-- Dynamic GitHub Trophies -->
+  <img src="https://github-profile-trophy.vercel.app/?username=Albertcs7&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" alt="GitHub Trophies" />
+</div>
+
+<div align="center" style="margin-top: 15px;">
+  <!-- Streak Tracker (Working) -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Albertcs7&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </div>
 
 <div align="center" style="margin-top: 10px;">
